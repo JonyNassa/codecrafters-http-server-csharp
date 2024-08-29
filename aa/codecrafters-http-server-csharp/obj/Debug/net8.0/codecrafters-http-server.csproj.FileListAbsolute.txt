@@ -1,0 +1,14 @@
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\bin\Debug\net8.0\codecrafters-http-server.exe
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\bin\Debug\net8.0\codecrafters-http-server.deps.json
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\bin\Debug\net8.0\codecrafters-http-server.runtimeconfig.json
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\bin\Debug\net8.0\codecrafters-http-server.dll
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\bin\Debug\net8.0\codecrafters-http-server.pdb
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.AssemblyInfoInputs.cache
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.AssemblyInfo.cs
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.csproj.CoreCompileInputs.cache
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.dll
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\refint\codecrafters-http-server.dll
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.pdb
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\codecrafters-http-server.genruntimeconfig.cache
+c:\Users\Krishna\Documents\python\aa\codecrafters-http-server-csharp\obj\Debug\net8.0\ref\codecrafters-http-server.dll
